@@ -1,0 +1,9 @@
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+.env
+# Problem text and team questions are licensed/confidential: never commit them.
+data/raw/*
+!data/raw/.gitkeep
+data/logs/
